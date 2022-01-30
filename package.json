@@ -16,12 +16,17 @@
     "bottleneck": "^2.19.5",
     "bunyan-syslog-udp": "^0.2.0",
     "joi": "^17.4.0",
+  <<<<<<< circleci-project-setup
+    "js-yaml": "^4.0.0",
+    "probot": "^9.15.1",
+  =======
     "js-yaml": "^4.1.0",
   <<<<<<< dependabot/npm_and_yarn/probot-11.1.1
     "probot": "^11.1.1",
   =======
     "probot": "^11.2.1",
   >>>>>>> master
+  >>>>>>> main
     "probot-config": "^1.1.0",
     "probot-scheduler": "github:wei/probot-scheduler#3b656f7",
     "request": "^2.88.2",
